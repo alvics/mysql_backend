@@ -11,7 +11,7 @@
 *** 
 
 ## Getting started
-***
+
 #### Prerequisite
 * Node js (currently using v16.13.0)
 * npm (currently using 8.1.0)
