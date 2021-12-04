@@ -1,0 +1,31 @@
+# MySQL Backend
+### This is a CRUD backend with MySQL using express and the Model, View and Control architecture. 
+***
+
+### Features
+- Create
+- Read
+- Update
+- Delate
+ 
+*** 
+
+## Getting started
+***
+#### Prerequisite
+* Node js (currently using v16.13.0)
+* npm (currently using 8.1.0)
+
+#### Clone the GitHub repo
+<pre>git clone https://github.com/alvics/mysql_backend.git</pre>
+
+#### Go to the mysql_backened
+<pre>cd mysql_backend</pre>
+
+#### Start application
+<pre>npm start</pre>
+
+***
+
+## Recommended Frontend
+### React JS
