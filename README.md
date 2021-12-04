@@ -3,10 +3,10 @@
 
 
 ### Features
-- Create
-- Read
-- Update
-- Delate
+- Create a property
+- Read a property
+- Update a property
+- Delate a property
  
 
 
