@@ -1,6 +1,6 @@
 # MySQL Backend
 ### This is a CRUD backend with MySQL using express and the Model, View and Control architecture. 
-***
+
 
 ### Features
 - Create
@@ -8,7 +8,7 @@
 - Update
 - Delate
  
-*** 
+
 
 ## Getting started
 
@@ -25,7 +25,7 @@
 #### Start application
 <pre>npm start</pre>
 
-***
+
 
 ## Recommended Frontend
 ### React JS
